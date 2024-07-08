@@ -1,0 +1,4 @@
+((impls ("" async_exercises_lib concurrency_exercises rpc_echo))
+ (intfs (async_exercises_lib concurrency_exercises rpc_echo))
+ (impls_and_intfs ("" async_exercises_lib concurrency_exercises rpc_echo))
+ (bin_annot false) (bin_annot_cms true) (mlds ()))

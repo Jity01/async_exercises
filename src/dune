@@ -1,0 +1,5 @@
+(library
+ (name async_exercises_lib)
+ (preprocess (pps ppx_jane))
+ (libraries async core)
+ (inline_tests (deps (source_tree ../resources))))

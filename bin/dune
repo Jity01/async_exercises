@@ -1,0 +1,3 @@
+(executables
+ (names async_exercises)
+ (libraries async core core_unix.command_unix async_exercises_lib))

@@ -1,0 +1,16 @@
+# dune exec ./bin/async_exercises.exe -- rpc client-rainbow -color Yellow -server localhost:10000
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/ubuntu/.cache/dune/db
+# Workspace root: /home/ubuntu/async-exercises
+# Auto-detected concurrency: 2
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /home/ubuntu/.opam/4.14.1/bin/ocamlc.opt -config > /tmp/dune_eb9fa7_output
